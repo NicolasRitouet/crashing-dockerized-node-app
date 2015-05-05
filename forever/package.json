@@ -1,0 +1,10 @@
+{
+  "name": "crashing-dockerized-node-app-forever",
+  "version": "0.0.1",
+  "description": "Example of a Node application that crashes after a few minutes to try out docker restart possibilities",
+  "author": "Nicolas Ritouet <nicolas@ritouet.com>",
+  "repository": {
+    "url": "git://github.com/nicolasritouet/crashing-dockerized-node-app.git"
+  },
+  "license": "MIT"
+}
